@@ -85,9 +85,6 @@ Machine learning project utilizing NLP techniques to identify and classify misin
 ### ArogyaAI
 AI-powered healthcare solution integrating Google Gemini API for intelligent health recommendations and user assistance. Demonstrates practical AI integration in real-world applications.
 
-### FinSight AI
-Financial analytics and prediction platform using machine learning models to provide data-driven insights for informed financial decision-making.
-
 ---
 
 ## 📈 Contribution Activity
