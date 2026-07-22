@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="35%" align="center">
-      <img src="assets/mythri-profile.png" width="220" style="border-radius: 50%; object-fit: cover;" alt="Mythri Gaddam professional profile photo">
+      <img src="assets/prof.jpeg" width="220" style="border-radius: 50%; object-fit: cover;" alt="Mythri Gaddam professional profile photo">
     </td>
     <td width="65%" valign="middle">
       <h2 style="color: #0366d6; margin: 0;">👋 Welcome!</h2>
